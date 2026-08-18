@@ -43,7 +43,9 @@ When the viewer at the front arrives, the fight is pure subtraction. The two HP 
 
 HP never resets while a viewer is alive, so someone who arrived on 1 HP can be worth thousands an hour later. HP sent to the viewer already on the throne raises the throne itself, so your biggest supporter can be defended instead of just waiting to be knocked off, and HP sent to someone already knocked out puts them back at the end of the line rather than doing nothing.
 
-## Gameplay
+## What it looks like on stream
+
+<img src="stream.webp" alt="Take the Crown running on a TikTok Live" width="320">
 
 [Watch Take the Crown gameplay](https://cdn.livecade.io/games/take-the-crown.mp4)
 
